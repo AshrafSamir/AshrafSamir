@@ -5,13 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ashraf Samir</h1>
 <h3 align="center">I'm a seasoned web developer with over 4 years of experience building and launching innovative and user-friendly websites and applications. I specialize in HTML, CSS, JavaScript, and have a keen eye for design and UX.
 
-My expertise lies in creating responsive and scalable web solutions that meet the needs of both businesses and their customers. I am passionate about staying up to date with the latest web technologies and enjoy exploring new development frameworks and tools.
-
-My previous experience includes working as a freelance web developer and contributing to open-source projects.
-
-When I'm not writing code, I enjoy hitting the gym, playing football, or trying out new recipes in the kitchen.
-
-Feel free to reach out to me if you have any questions or if you're interested in working together on a project!</h3>
+My expertise lies in creating responsive and scalable web solutions that meet the needs of both businesses and their customers. I am passionate about staying up to date with the latest web technologies and enjoy exploring new development frameworks and tools.</h3>
 <img align="right" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 
 <br>
